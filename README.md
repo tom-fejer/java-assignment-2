@@ -10,7 +10,6 @@ A feladat egy úszó világbajnokság eredményeinek kezelését elvégző progr
 Főbb funkciói:
 -
 - a résztvevők eredményeinek beolvasása szöveges fájlból (versenyszám, név, ország, helyezés)
-- az országok eredményeinek listázása
+- az egyes országok eredményeinek listázása
 - eredmények rangsorolása érmek száma szerint vagy szerzett pontok alapján
-- dobogós helyezések listázása
 - eredmények fájlba írása
