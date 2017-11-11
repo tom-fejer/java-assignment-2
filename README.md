@@ -5,3 +5,12 @@ A beadandó programhoz részletes javadoc leírás tartozik a megvalósítandó 
 https://bead.inf.elte.hu/files/java/championship/doc/
 
 (a weboldal tartalma megtalálható a 'Feladat' mappában is)
+
+A feladat egy úszó világbajnokság eredményeinek kezelését elvégző program megvalósítása.
+Főbb funkciói:
+-
+- a résztvevők eredményeinek beolvasása szöveges fájlból (versenyszám, név, ország, helyezés)
+- az országok eredményeinek listázása
+- eredmények rangsorolása érmek száma szerint vagy szerzett pontok alapján
+- dobogós helyezések listázása
+- eredmények fájlba írása
