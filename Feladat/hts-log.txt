@@ -1,0 +1,12 @@
+HTTrack3.49-2 launched on Fri, 10 Nov 2017 12:51:22 at https://bead.inf.elte.hu/files/java/championship/doc/
+(winhttrack https://bead.inf.elte.hu/files/java/championship/doc/ -O "/home/tomfejer/websites/Java Assignment Doc" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:52:05	Error: 	"Not Found" (404) at link https://bead.inf.elte.hu/files/java/championship/doc/resources/fonts/dejavu.css (from https://bead.inf.elte.hu/files/java/championship/doc/stylesheet.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 46 seconds : 40 links scanned, 38 files written (218343 bytes overall) [70984 bytes received at 1543 bytes/sec], 218343 bytes transferred using HTTP compression in 38 files, ratio 26%, 13.3 requests per connection
+(1 errors, 0 warnings, 0 messages)
