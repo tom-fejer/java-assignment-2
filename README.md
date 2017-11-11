@@ -13,3 +13,5 @@ Főbb funkciói:
 - az egyes országok eredményeinek listázása
 - eredmények rangsorolása érmek száma szerint vagy szerzett pontok alapján
 - eredmények fájlba írása
+
+A program megírásához csak egyszerű szövegszerkesztőt lehetett használni.
